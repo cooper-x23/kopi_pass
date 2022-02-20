@@ -1,0 +1,9 @@
+<meta>
+    <script src='client/main.lua' type='client' cache='false' />
+    <script src='client/components/drop.lua' type='client' cache='false' />
+    <script src='client/components/item.lua' type='client' cache='false' />
+    <script src='client/components/reward.lua' type='client' cache='false' />
+    <script src='client/components/panel.lua' type='client' cache='false' />
+    <script src='server/main.lua' />
+    <oop>true</oop>
+</meta>
